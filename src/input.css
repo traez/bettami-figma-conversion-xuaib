@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  utline: 1px solid black;
+}
+
+@layer base {
+  @font-face {
+    font-family: 'Cabinet Grotesk';
+    src: url('./fonts/CabinetGrotesk-Regular.woff2') format('woff2'), url('./fonts/CabinetGrotesk-Medium.woff2') format('woff2'), url('./fonts/CabinetGrotesk-Bold.woff2') format('woff2');
+    /* src: url('fonts/CabinetGrotesk-Regular.ttf') format('truetype'), url('fonts/CabinetGrotesk-Medium.ttf') format('truetype'), url('fonts/CabinetGrotesk-Bold.ttf') format('truetype'); */
+  }
+}
+
+.text-stroke {
+  -webkit-text-stroke: 1px white; /* Width and color of the text stroke */
+}
+
+.scroll-container {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+.scroll-container::-webkit-scrollbar {
+  display: none;  /* Chrome, Safari, Opera */
+}
+
+
+
+
