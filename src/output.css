@@ -1743,6 +1743,102 @@ video {
 }
 
 @media (min-width: 1440px) {
+  .desk\:right-\[300px\] {
+    right: 300px;
+  }
+
+  .desk\:top-\[-120px\] {
+    top: -120px;
+  }
+
+  .desk\:top-\[-105px\] {
+    top: -105px;
+  }
+
+  .desk\:top-\[-130px\] {
+    top: -130px;
+  }
+
+  .desk\:top-\[-140px\] {
+    top: -140px;
+  }
+
+  .desk\:right-\[-45px\] {
+    right: -45px;
+  }
+
+  .desk\:right-\[-55px\] {
+    right: -55px;
+  }
+
+  .desk\:right-\[-35px\] {
+    right: -35px;
+  }
+
+  .desk\:right-\[-25px\] {
+    right: -25px;
+  }
+
+  .desk\:right-\[290px\] {
+    right: 290px;
+  }
+
+  .desk\:right-\[240px\] {
+    right: 240px;
+  }
+
+  .desk\:right-\[340px\] {
+    right: 340px;
+  }
+
+  .desk\:right-\[440px\] {
+    right: 440px;
+  }
+
+  .desk\:right-\[450px\] {
+    right: 450px;
+  }
+
+  .desk\:right-\[460px\] {
+    right: 460px;
+  }
+
+  .desk\:right-\[470px\] {
+    right: 470px;
+  }
+
+  .desk\:right-\[-65px\] {
+    right: -65px;
+  }
+
+  .desk\:right-\[-20px\] {
+    right: -20px;
+  }
+
+  .desk\:right-\[-15px\] {
+    right: -15px;
+  }
+
+  .desk\:right-\[190px\] {
+    right: 190px;
+  }
+
+  .desk\:right-\[390px\] {
+    right: 390px;
+  }
+
+  .desk\:right-\[490px\] {
+    right: 490px;
+  }
+
+  .desk\:right-\[480px\] {
+    right: 480px;
+  }
+
+  .desk\:grid {
+    display: grid;
+  }
+
   .desk\:h-\[1000px\] {
     height: 1000px;
   }
@@ -1765,6 +1861,14 @@ video {
 
   .desk\:h-\[885px\] {
     height: 885px;
+  }
+
+  .desk\:h-full {
+    height: 100%;
+  }
+
+  .desk\:h-\[1200px\] {
+    height: 1200px;
   }
 
   .desk\:w-\[1000px\] {
@@ -1795,6 +1899,10 @@ video {
     width: 565px;
   }
 
+  .desk\:w-full {
+    width: 100%;
+  }
+
   .desk\:grid-cols-\[16\%_68\%_16\%\] {
     grid-template-columns: 16% 68% 16%;
   }
@@ -1803,12 +1911,30 @@ video {
     grid-template-columns: 5% 90% 5%;
   }
 
+  .desk\:grid-cols-2 {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .desk\:grid-cols-4 {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
+  @media (min-width: 1440px) {
+    .desk\:desk\:grid-cols-4 {
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+    }
+  }
+
   .desk\:grid-rows-\[15\%_85\%\] {
     grid-template-rows: 15% 85%;
   }
 
   .desk\:grid-rows-\[25\%_75\%\] {
     grid-template-rows: 25% 75%;
+  }
+
+  .desk\:grid-rows-2 {
+    grid-template-rows: repeat(2, minmax(0, 1fr));
   }
 
   .desk\:px-\[96px\] {
