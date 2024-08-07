@@ -77,7 +77,9 @@ Add custom downloaded fonts to Tailwind for enhanced typography control.
 - **Cropping PNGs:**  
 Use [https://onlinepngtools.com/crop-png](https://onlinepngtools.com/crop-png) to crop .png images without distorting the background color.
 - **Awesome Screen Recorder & Screenshot:**  
-Utilize the Awesome Screen Recorder & Screenshot tool for recording project reviews.
+Utilize the Awesome Screen Recorder & Screenshot tool for recording project reviews.  
+- **Using Browser Zoom for Responsive Design:**  
+In Google Chrome, you can zoom out in the browser window to view the appearance of a webpage at widths wider than your desktop screen permits. This approach allows you to code dynamically and ensure your design works well on larger screens.  
 
 ### Continued development
 
