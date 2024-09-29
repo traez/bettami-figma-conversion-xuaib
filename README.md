@@ -37,7 +37,7 @@ This is a Figma to HTML/Tailwind CSS conversion gig I got. Design is available [
 ### Links
 
 - Solution URL: [https://github.com/traez/bettami-figma-conversion-xuaib](https://github.com/traez/bettami-figma-conversion-xuaib)
-- Live Site URL: [https://bettami-figma-conversion-xuaib-trae-zeeofors-projects.vercel.app/](https://https://bettami-figma-conversion-xuaib-trae-zeeofors-projects.vercel.app/)
+- Live Site URL: [https://bettami-figma-conversion-xuaib-trae-zeeofors-projects.vercel.app/](https://bettami-figma-conversion-xuaib-trae-zeeofors-projects.vercel.app/)
 
 ## My process
 
